@@ -1,0 +1,7 @@
+c:\users\kristian.jeremic\documents\visual studio 2015\Projects\Databas\Databas\bin\Debug\Databas.exe.config
+C:\Users\kristian.jeremic\documents\visual studio 2015\Projects\Databas\Databas\obj\Debug\Databas.csprojResolveAssemblyReference.cache
+C:\Users\kristian.jeremic\documents\visual studio 2015\Projects\Databas\Databas\bin\Debug\Databas.exe
+C:\Users\kristian.jeremic\documents\visual studio 2015\Projects\Databas\Databas\bin\Debug\Databas.pdb
+C:\Users\kristian.jeremic\documents\visual studio 2015\Projects\Databas\Databas\bin\Debug\MySql.Data.dll
+C:\Users\kristian.jeremic\documents\visual studio 2015\Projects\Databas\Databas\obj\Debug\Databas.exe
+C:\Users\kristian.jeremic\documents\visual studio 2015\Projects\Databas\Databas\obj\Debug\Databas.pdb
